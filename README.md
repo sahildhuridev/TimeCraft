@@ -111,7 +111,7 @@ We respect your privacy and give you full control.
   - Export a `.json` file to save your data.
   - Import the file on a new device to restore.
 
-> ⚠️ **Warning:** Importing will completely overwrite existing data. This action is irreversible.
+> ⚠️ **Warning!:** Importing will completely overwrite existing data. This action is irreversible.
 
 ---
 
